@@ -1,4 +1,14 @@
-> ## Viper v2 feedback
+## 🚨NOTE: viper is not an officially supported Sauce Labs product🚨
+
+This is a fork of https://github.com/spf13/viper.
+
+The sole reason for this fork is to enable case-sensitive keys.
+
+This repo will likely be archived if Viper v2 supports case-sensitive keys out of the box.
+
+Use at your own risk.
+
+> > ## Viper v2 feedback
 > Viper is heading towards v2 and we would love to hear what _**you**_ would like to see in it. Share your thoughts here: https://forms.gle/R6faU74qPRPAzchZ9
 >
 > **Thank you!**
